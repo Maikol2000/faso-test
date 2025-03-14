@@ -1,0 +1,126 @@
+{
+    "blogPosts": [
+        {
+            "id": "1",
+            "title": "Gia nhập cộng đồng FMRP - Kết nối, chia sẻ, cùng phát triển!",
+            "slug": "gia-nhap-cong-dong-fmrp",
+            "category": {
+                "name": "Tin Tức FOSO",
+                "slug": "tin-tuc-foso"
+            },
+            "date": "20/03/2023",
+            "readingTime": "5 phút đọc",
+            "thumbnail": "/placeholder.svg?height=400&width=800",
+            "excerpt": "Tham gia cộng đồng FMRP để kết nối với các chuyên gia, chia sẻ kinh nghiệm và cùng nhau phát triển trong lĩnh vực quản lý sản xuất.",
+            "featured": true,
+            "content": "<ul>\n<li>Tự động mở khi kẹp vào đầu đàn. Tự tắt sau 1 thời gian khi không sử dụng.</li>\n<li>Màu sắc màn hình rõ ràng: Đỏ là dây cao, Cam là dây thấp, Xanh lá là dây đã chính xác.</li>\n<li>Dùng cho tất cả các nhạc cụ dây (guitar, guitar điện, violin, ukulele …)</li>\n<li>Dễ dùng , nhỏ gọn và chính xác là đặt điểm nổi bậc của loại máy lên dây Musedo T29-C</li>\n</ul>"
+        },
+        {
+            "id": "2",
+            "title": "Tại sao BOM quan trọng trong quản lý sản xuất?",
+            "slug": "tai-sao-bom-quan-trong-trong-quan-ly-san-xuat",
+            "category": {
+                "name": "Quản Lý Sản Xuất",
+                "slug": "quan-ly-san-xuat"
+            },
+            "date": "17/03/2023",
+            "readingTime": "10 phút đọc",
+            "thumbnail": "/placeholder.svg?height=300&width=600",
+            "excerpt": "BOM (Bill of Materials) là một trong những yếu tố quan trọng nhất trong quản lý sản xuất. Tìm hiểu tại sao BOM lại quan trọng và cách tối ưu hóa BOM cho doanh nghiệp của bạn.",
+            "content": "<div class=\"header-section text-center mb-8\">\n    <h1 class=\"text-3xl font-bold text-blue-800 mb-4\">QUY TRÌNH 5S LÀ GÌ?</h1>\n    <div class=\"quote-block text-gray-600 italic mb-6\">\n      <p>\"5S là một phương pháp quản lý và tổ chức nơi làm việc một cách khoa học, hiệu quả và an toàn, được áp dụng rộng rãi trong các doanh nghiệp sản xuất và dịch vụ.\"</p>\n    </div>\n  </div>"
+        },
+        {
+            "id": "3",
+            "title": "Cách xây dựng BOM hiệu quả cho doanh nghiệp sản xuất",
+            "slug": "cach-xay-dung-bom-hieu-qua-cho-doanh-nghiep-san-xuat",
+            "category": {
+                "name": "Quản Lý Sản Xuất",
+                "slug": "quan-ly-san-xuat"
+            },
+            "date": "15/03/2023",
+            "readingTime": "8 phút đọc",
+            "thumbnail": "/placeholder.svg?height=300&width=600",
+            "excerpt": "Xây dựng BOM (Bill of Materials) hiệu quả giúp doanh nghiệp tối ưu hóa quy trình sản xuất, giảm chi phí và tăng năng suất. Bài viết này sẽ hướng dẫn bạn cách xây dựng BOM hiệu quả.",
+            "content": "<div class=\"content-section mb-8\">\n    <h2 class=\"text-2xl font-semibold text-blue-700 mb-4\">QUY TRÌNH 5S</h2>\n    <p class=\"mb-4\">Quy trình 5S bao gồm 5 bước cơ bản:</p>\n    <ol class=\"list-decimal pl-6 mb-6\">\n      <li class=\"mb-2\"><strong>Sàng lọc (Seiri):</strong> Phân loại và loại bỏ những vật dụng không cần thiết</li>\n      <li class=\"mb-2\"><strong>Sắp xếp (Seiton):</strong> Sắp xếp mọi thứ ngăn nắp, dễ tìm, dễ thấy, dễ lấy</li>\n      <li class=\"mb-2\"><strong>Sạch sẽ (Seiso):</strong> Giữ nơi làm việc sạch sẽ, gọn gàng</li>\n      <li class=\"mb-2\"><strong>Săn sóc (Seiketsu):</strong> Duy trì và cải tiến 3S đầu tiên</li>\n      <li class=\"mb-2\"><strong>Sẵn sàng (Shitsuke):</strong> Rèn luyện thói quen thực hiện 5S</li>\n    </ol>\n  </div>\n   <div class=\"why-5s-section mb-8\">\n    <h2 class=\"text-2xl font-semibold text-blue-700 mb-4\">TẠI SAO DOANH NGHIỆP CẦN QUY TRÌNH 5S?</h2>\n    <ul class=\"list-disc pl-6 mb-6\">\n      <li class=\"mb-2\">Tăng năng suất và hiệu quả làm việc</li>\n      <li class=\"mb-2\">Giảm thiểu lãng phí thời gian và nguồn lực</li>\n      <li class=\"mb-2\">Cải thiện môi trường làm việc</li>\n      <li class=\"mb-2\">Nâng cao tinh thần làm việc của nhân viên</li>\n      <li class=\"mb-2\">Tạo ấn tượng tốt với khách hàng</li>\n    </ul>\n  </div>\n  <div class=\"implementation-section mb-8\">\n    <h2 class=\"text-2xl font-semibold text-blue-700 mb-4\">CÁC BƯỚC THỰC HIỆN QUY TRÌNH 5S</h2>\n    <div class=\"steps-grid grid grid-cols-1 md:grid-cols-5 gap-4 mb-6\">\n      <div class=\"step-item text-center p-4 bg-blue-50 rounded-lg\">\n        <div class=\"step-number bg-blue-600 text-white w-8 h-8 rounded-full flex items-center justify-center mx-auto mb-2\">1</div>\n        <h3 class=\"font-semibold mb-2\">Chuẩn bị</h3>\n      </div>\n      <div class=\"step-item text-center p-4 bg-blue-50 rounded-lg\">\n        <div class=\"step-number bg-blue-600 text-white w-8 h-8 rounded-full flex items-center justify-center mx-auto mb-2\">2</div>\n        <h3 class=\"font-semibold mb-2\">Đào tạo</h3>\n      </div>\n      <div class=\"step-item text-center p-4 bg-blue-50 rounded-lg\">\n        <div class=\"step-number bg-blue-600 text-white w-8 h-8 rounded-full flex items-center justify-center mx-auto mb-2\">3</div>\n        <h3 class=\"font-semibold mb-2\">Thực hiện</h3>\n      </div>\n      <div class=\"step-item text-center p-4 bg-blue-50 rounded-lg\">\n        <div class=\"step-number bg-blue-600 text-white w-8 h-8 rounded-full flex items-center justify-center mx-auto mb-2\">4</div>\n        <h3 class=\"font-semibold mb-2\">Kiểm tra</h3>\n      </div>\n      <div class=\"step-item text-center p-4 bg-blue-50 rounded-lg\">\n        <div class=\"step-number bg-blue-600 text-white w-8 h-8 rounded-full flex items-center justify-center mx-auto mb-2\">5</div>\n        <h3 class=\"font-semibold mb-2\">Duy trì</h3>\n      </div>\n    </div>\n  </div>"
+        },
+        {
+            "id": "4",
+            "title": "5 lợi ích của việc số hóa quy trình quản lý sản xuất",
+            "slug": "5-loi-ich-cua-viec-so-hoa-quy-trinh-quan-ly-san-xuat",
+            "category": {
+                "name": "Quản Lý Sản Xuất",
+                "slug": "quan-ly-san-xuat"
+            },
+            "date": "12/03/2023",
+            "readingTime": "7 phút đọc",
+            "thumbnail": "/placeholder.svg?height=300&width=600",
+            "excerpt": "Số hóa quy trình quản lý sản xuất mang lại nhiều lợi ích cho doanh nghiệp. Tìm hiểu 5 lợi ích chính của việc số hóa và cách triển khai hiệu quả.",
+            "content": "<div class=\"requirements-section mb-8\">\n    <h2 class=\"text-2xl font-semibold text-blue-700 mb-4\">CÁC YÊU TỐ TẠO NÊN THÀNH CÔNG QUY TRÌNH 5S</h2>\n    <ul class=\"list-none pl-0\">\n      <li class=\"flex items-center mb-3\">\n        <span class=\"w-6 h-6 bg-green-500 rounded-full flex items-center justify-center mr-3\">\n          <svg class=\"w-4 h-4 text-white\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n            <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 13l4 4L19 7\"></path>\n          </svg>\n        </span>\n        <span>Lãnh đạo cam kết và hỗ trợ</span>\n      </li>\n      <li class=\"flex items-center mb-3\">\n        <span class=\"w-6 h-6 bg-green-500 rounded-full flex items-center justify-center mr-3\">\n          <svg class=\"w-4 h-4 text-white\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n            <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 13l4 4L19 7\"></path>\n          </svg>\n        </span>\n        <span>Đội ngũ thực hiện nhiệt tình</span>\n      </li>\n      <li class=\"flex items-center mb-3\">\n        <span class=\"w-6 h-6 bg-green-500 rounded-full flex items-center justify-center mr-3\">\n          <svg class=\"w-4 h-4 text-white\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n            <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 13l4 4L19 7\"></path>\n          </svg>\n        </span>\n        <span>Kế hoạch triển khai chi tiết</span>\n      </li>\n    </ul>\n  </div>"
+        },
+        {
+            "id": "5",
+            "title": "Thiết kế website cho doanh nghiệp sản xuất: Những điều cần biết",
+            "slug": "thiet-ke-website-cho-doanh-nghiep-san-xuat",
+            "category": {
+                "name": "Thiết Kế Website",
+                "slug": "thiet-ke-website"
+            },
+            "date": "10/03/2023",
+            "readingTime": "6 phút đọc",
+            "thumbnail": "/placeholder.svg?height=300&width=600",
+            "excerpt": "Website là cửa sổ kết nối doanh nghiệp với khách hàng. Bài viết này sẽ giúp bạn hiểu những yếu tố quan trọng khi thiết kế website cho doanh nghiệp sản xuất.",
+            "content": "<div class=\"requirements-section mb-8\">\n    <h2 class=\"text-2xl font-semibold text-blue-700 mb-4\">CÁC YÊU TỐ TẠO NÊN THÀNH CÔNG QUY TRÌNH 5S</h2>\n    <ul class=\"list-none pl-0\">\n      <li class=\"flex items-center mb-3\">\n        <span class=\"w-6 h-6 bg-green-500 rounded-full flex items-center justify-center mr-3\">\n          <svg class=\"w-4 h-4 text-white\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n            <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 13l4 4L19 7\"></path>\n          </svg>\n        </span>\n        <span>Lãnh đạo cam kết và hỗ trợ</span>\n      </li>\n      <li class=\"flex items-center mb-3\">\n        <span class=\"w-6 h-6 bg-green-500 rounded-full flex items-center justify-center mr-3\">\n          <svg class=\"w-4 h-4 text-white\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n            <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 13l4 4L19 7\"></path>\n          </svg>\n        </span>\n        <span>Đội ngũ thực hiện nhiệt tình</span>\n      </li>\n      <li class=\"flex items-center mb-3\">\n        <span class=\"w-6 h-6 bg-green-500 rounded-full flex items-center justify-center mr-3\">\n          <svg class=\"w-4 h-4 text-white\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n            <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 13l4 4L19 7\"></path>\n          </svg>\n        </span>\n        <span>Kế hoạch triển khai chi tiết</span>\n      </li>\n    </ul>\n  </div>"
+        },
+        {
+            "id": "6",
+            "title": "Ứng dụng AI trong quản lý chuỗi cung ứng",
+            "slug": "ung-dung-ai-trong-quan-ly-chuoi-cung-ung",
+            "category": {
+                "name": "Quản Lý Bán Hàng",
+                "slug": "quan-ly-ban-hang"
+            },
+            "date": "08/03/2023",
+            "readingTime": "12 phút đọc",
+            "thumbnail": "/placeholder.svg?height=300&width=600",
+            "excerpt": "Trí tuệ nhân tạo (AI) đang cách mạng hóa cách doanh nghiệp quản lý chuỗi cung ứng. Tìm hiểu cách AI có thể giúp doanh nghiệp của bạn tối ưu hóa quy trình và giảm chi phí.",
+            "content": "<div class=\"requirements-section mb-8\">\n    <h2 class=\"text-2xl font-semibold text-blue-700 mb-4\">CÁC YÊU TỐ TẠO NÊN THÀNH CÔNG QUY TRÌNH 5S</h2>\n    <ul class=\"list-none pl-0\">\n      <li class=\"flex items-center mb-3\">\n        <span class=\"w-6 h-6 bg-green-500 rounded-full flex items-center justify-center mr-3\">\n          <svg class=\"w-4 h-4 text-white\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n            <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 13l4 4L19 7\"></path>\n          </svg>\n        </span>\n        <span>Lãnh đạo cam kết và hỗ trợ</span>\n      </li>\n      <li class=\"flex items-center mb-3\">\n        <span class=\"w-6 h-6 bg-green-500 rounded-full flex items-center justify-center mr-3\">\n          <svg class=\"w-4 h-4 text-white\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n            <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 13l4 4L19 7\"></path>\n          </svg>\n        </span>\n        <span>Đội ngũ thực hiện nhiệt tình</span>\n      </li>\n      <li class=\"flex items-center mb-3\">\n        <span class=\"w-6 h-6 bg-green-500 rounded-full flex items-center justify-center mr-3\">\n          <svg class=\"w-4 h-4 text-white\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n            <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 13l4 4L19 7\"></path>\n          </svg>\n        </span>\n        <span>Kế hoạch triển khai chi tiết</span>\n      </li>\n    </ul>\n  </div>"
+        }
+    ],
+    "blogCategories": [
+        {
+            "name": "Tất cả",
+            "slug": "tat-ca",
+            "count": 108
+        },
+        {
+            "name": "Thiết Kế Website",
+            "slug": "thiet-ke-website",
+            "count": 36
+        },
+        {
+            "name": "Thiết Kế App Mobile",
+            "slug": "thiet-ke-app-mobile",
+            "count": 13
+        },
+        {
+            "name": "Quản Lý Sản Xuất",
+            "slug": "quan-ly-san-xuat",
+            "count": 25
+        },
+        {
+            "name": "Quản Lý Bán Hàng",
+            "slug": "quan-ly-ban-hang",
+            "count": 22
+        },
+        {
+            "name": "Báo Chí Nói về FOSO",
+            "slug": "bao-chi-noi-ve-foso",
+            "count": 7
+        },
+        {
+            "name": "Tin Tức FOSO",
+            "slug": "tin-tuc-foso",
+            "count": 5
+        }
+    ]
+}
